@@ -47,7 +47,7 @@ $mass="Form ".$email."<br>Massage:<br>".$mas;
 echo $mass;
 
 sendmail($subject,$mass);
-header("location: ../index.html");
+header("location:  https://myonaingoo.github.io/Myonaing.github.io/");
 //error_reporting(0);
 
 
