@@ -58,7 +58,7 @@
 }
 
 .bg-pb{
-	background: linear-gradient(87deg,#0ef,#1d3fff);
+	background: linear-gradient(87deg,#0ef,#1d3fff) !important;
 }
 
 
