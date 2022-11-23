@@ -6,8 +6,8 @@ body {
 .darkmode {
   --light: #000039;
   --dark: #ffffff;
-  --lights: rgba(0,0,0,.2);
-  --darks: rgba(255,255,255,.2); }
+  --lights: rgba(0,0,0,.3);
+  --darks: rgba(255,255,255,.3); }
 
 footer {
   margin-bottom: 0;
