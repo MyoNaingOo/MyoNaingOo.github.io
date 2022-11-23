@@ -22,8 +22,8 @@ footer {
 
 .border {
   border-radius: 15px;
-  box-shadow:  15px 15px 29px (--darks),
-             -15px -15px 29px (--lights);}
+  box-shadow:  21px 21px 31px #afafaf,
+             -21px -21px 31px #ffffff;}
 
 .nbo {
   background: var(--light) !important; }
