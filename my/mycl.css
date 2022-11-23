@@ -10,8 +10,8 @@
 :root{
 	--dark: #000000;
 	--light: #e8e8e8;
-	--darks: rgba(0,0,0,0.2);
-	--lights: rgba(255,255,255,.3);
+	--darks: rgba(0,0,0,0.5);
+	--lights: rgba(255,255,255,.5);
 
 
 }
